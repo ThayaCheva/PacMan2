@@ -1,0 +1,7 @@
+[sample_map2.xml - no start for PacMan]
+[sample_map2.xml - portal Yellow count is not 2]
+[sample_map2.xml - portal White count is not 2]
+[sample_map2.xml - portal Dark Gold count is not 2]
+[sample_map2.xml - portal Dark Grey count is not 2]
+[1sample_map.xml - portal Yellow count is not 2: (9, 5); (10, 5); (7, 7)]
+[1sample_map.xml - less than 2 Gold and Pill]
